@@ -1,7 +1,7 @@
 // Define uma função para atualizar a hora exibida na página da web.
 function actualizarHora() {
 // Obtém o elemento HTML com o ID 'clock'.
-    const reloj = document.getElementById('reloj');
+    const relogio = document.getElementById('relogio');
     
     // Cria um novo objeto Date contendo a data e hora atuais.
     const ahora = new Date();
@@ -16,7 +16,7 @@ function actualizarHora() {
     const segundos = agregarCero(ahora.getSeconds());
     
     // Atualiza o conteúdo do elemento 'clock' com a hora atual no formato HH:MM:SS.
-    reloj.textContent = `${horas}:${minutos}:${segundos}`;
+    relogio.textContent = `${horas}:${minutos}:${segundos}`;
 }
 
 // Defina uma função para adicionar um zero à esquerda a números menores que 10.
