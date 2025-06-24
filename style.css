@@ -1,0 +1,18 @@
+/* Estilos gerais para o corpo da página */
+body {
+    display: flex; /* Usa Flexbox para layout, permitindo fácil centralização do conteúdo */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center;/* Centraliza o conteúdo verticalmente */
+    height: 100vh; /* Ajusta a altura do corpo para caber em toda a janela de visualização */
+    background-color: #333; /* Define uma cor de fundo escura para o corpo da página */
+    color: #fff; /* Define a cor do texto para branco */
+    font-family: 'Arial', sans-serif; /* Use Arial como fonte primária, com uma fonte sans-serif fallback */
+    font-size: 60px; /* Ajuste o tamanho do texto para 60px para torná-lo grande e legível */
+}
+
+/* Estilos específicos para o elemento que possui a classe 'clock' */
+.reloj {
+    padding: 20px; /* Adicione preenchimento ao redor do conteúdo para separá-lo da borda */
+    border: 2px solid #fff; /* Define uma borda branca sólida ao redor do elemento */
+    border-radius: 20px; /* Arredonda os cantos da borda para suavizar o layout */
+}
