@@ -4,12 +4,12 @@
   <tr>
     <td align="center">
       <a href="https://asasdev.com.br/relogio/index1.html">
-        <img src="https://img.shields.io/badge/Demo%201-Acessar-0d6efd?style=for-the-badge" alt="Demonstração 1"/>
+         <img src="https://img.shields.io/badge/Site%20Demonstração-Acessar-0d6efd?style=for-the-badge" alt="Site Demonstração">
       </a>
     </td>
     <td align="center">
       <a href="https://asasdev.com.br/relogio/index.html">
-        <img src="https://img.shields.io/badge/Demo%202-Acessar-0d6efd?style=for-the-badge" alt="Demonstração 2"/>
+         <img src="https://img.shields.io/badge/Site%20Demonstração-Acessar-0d6efd?style=for-the-badge" alt="Site Demonstração">
       </a>
     </td>
   </tr>
