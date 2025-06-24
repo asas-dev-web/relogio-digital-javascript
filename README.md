@@ -13,7 +13,7 @@
       </a>
     </td>
   </tr>
-  <tr>
+  <tr><br>
     <td align="center">
       <img src="relogio_branco.png" alt="Imagem 1" width="300"/>
     </td>
