@@ -13,12 +13,12 @@
       </a>
     </td>
   </tr>
-  <tr><br>
+  <tr>
     <td align="center">
-      <img src="relogio_branco.png" alt="Imagem 1" width="300"/>
+      <img src="relogio_branco.png" alt="Imagem 1" width="400"/>
     </td>
     <td align="center">
-      <img src="relogio_verde.png" alt="Imagem 2" width="300"/>
+      <img src="relogio_verde.png" alt="Imagem 2" width="400"/>
     </td>
   </tr>
 </table>
